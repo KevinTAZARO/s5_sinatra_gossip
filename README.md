@@ -3,3 +3,5 @@ On cherche à créer une application qui permet aux utilisateurs de créer du co
 Pour la création du contenu, on fait parvenir un formulaire qui va demander le nom de l'auteur et le contenu de son message.
 
 Parallèlement, on stocke les données rentrées dans un fichier csv, ce qui va nous permettre différentes opérations sur les données pour le rendu html. Nous allons associer du langage ruby et du langage html pour automatiser des opérations d'affichage. Au rendu, on pourra intégrer du contenu via des formulaires et l'afficher sur une page html et l'éditer.
+
+Le projet s'arrête au point 2.7.
